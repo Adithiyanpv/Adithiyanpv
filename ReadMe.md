@@ -8,7 +8,6 @@ I'm currently working on building websites for education management and Computer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithiyan-pv-68639b258/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Special_Issue_1523/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/007Adithiyan)
-[![Stack Overflow](https://img.shields.io/badge/Stack Overflow-%23FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23051747/adithiyan-pv)
 
 
 # 💻 Tech Stack:
