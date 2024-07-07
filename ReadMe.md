@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on building websites for education management and Computer Vision<br>I'm currently learning  React JS and Large Language Models<br>Ask me about Machine learning, deep learning and Full stack Web development<br>Let's Connect :)
+I'm currently working on building websites for education management and Computer Vision 📚💻
+I'm currently learning React JS ⚛️ and Large Language Models 🤖
+Ask me about Machine Learning, Deep Learning, and Full Stack Web Development 🌐🧠
+Let's Connect! 😊
 
 
 # 🌐 Socials:
