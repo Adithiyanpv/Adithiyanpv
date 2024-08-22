@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently working on building websites for education management and Lip Reading using Computer Vision 📚💻<br>
 I'm currently learning React JS ⚛️ and Large Language Models 🤖<br>
 Ask me about Machine Learning, Deep Learning, and Full Stack Web Development 🌐🧠<br>
