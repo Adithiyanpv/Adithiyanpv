@@ -8,8 +8,11 @@ A passionate **Techie** who loves turning 💡 ideas into reality with code!
 - 🌍 Dreaming big, building bigger
 - ✨ Just a curious soul with a laptop and infinite tabs open
 
+---
+
 📌 **Check out my Portfolio**: [Adithiyan's Portfolio 🌐](https://react-portfolio-8ywh.onrender.com/)  
 
+---
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithiyan-pv-68639b258/)
