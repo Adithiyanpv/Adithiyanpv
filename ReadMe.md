@@ -22,7 +22,7 @@ A passionate **Techie** who loves turning 💡 ideas into reality with code!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/007Adithiyan)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562096729295)
 
-
+---
 
 # 💻 Tech Stack:
 ### 🚀 Programming Languages  
@@ -68,7 +68,7 @@ A passionate **Techie** who loves turning 💡 ideas into reality with code!
 ![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adithiyanpv&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
