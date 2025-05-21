@@ -1,8 +1,5 @@
 #  About Me:
-I'm currently working on building Smart Attendance System using React, Vanilla Javascript, NodeJS, and Express 📚💻<br>
-I'm currently learning React JS ⚛️ and Large Language Models 🤖<br>
-Ask me about Machine Learning, Deep Learning, and Full Stack Web Development 🌐🧠<br>
-Let's Connect! 😊
+Adithiyan PV from Amrita Vishwa Vidyapeetam
 
 
 # 🌐 Socials:
