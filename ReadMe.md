@@ -10,7 +10,7 @@ A passionate **Techie** who loves turning 💡 ideas into reality with code!
 
 ---
 
-📌 **Check out my Portfolio**: [Adithiyan's Portfolio 🌐](https://react-portfolio-8ywh.onrender.com/)  
+📌 **Check out my Portfolio**: [Adithiyan's Portfolio 🌐](https://react-portfolio-adithiyanpv-adithiyan-p-vs-projects.vercel.app/)  
 
 ---
 
