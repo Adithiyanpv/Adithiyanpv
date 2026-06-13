@@ -2,11 +2,11 @@
 Hey there! I'm **Adithiyan PV** from **Amrita Vishwa Vidyapeetham** 😄  
 A passionate **Techie** who loves turning 💡 ideas into reality with code!  
 
-- 🚀 Always exploring the latest in **AI, ML, CV, NLP, and GenAI**
-- 📸 Occasional photographer 📷 with a love for aesthetics
-- 🎵 Vibing with music while debugging errors 🎧
-- 🌍 Dreaming big, building bigger
-- ✨ Just a curious soul with a laptop and infinite tabs open
+-  Always exploring the latest in **AI, ML, CV, NLP, and GenAI**
+-  Occasional photographer 📷 with a love for aesthetics
+-  Vibing with music while debugging errors 🎧
+-  Dreaming big, building bigger
+-  Just a curious soul with a laptop and infinite tabs open
 
 ---
 
